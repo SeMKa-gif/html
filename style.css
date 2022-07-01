@@ -53,6 +53,7 @@ header{
     font-size: 25px;
     text-decoration: none;
     color: wheat;
+    transition: 0.5s;
 }
 .menua:hover{
     background-color: rgb(181, 137, 223);
